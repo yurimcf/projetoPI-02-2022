@@ -1,0 +1,15 @@
+Projeto Integrador com o propósito de desenvolver os conhecimentos de programação orientada a objeto.
+Na contrução desse projeto foi utilizado os fundamentos da programação orientada a objeto na construção de um aplicativo utilizando a classe swing
+
+Para rodar a aplicação é necessario a criação de um banco de dados no Mysql
+
+1. Crie um script com no nome do banco de dados de projetopi
+2. cria uma tabela aluno
+ra int 
+nome varchar(45)
+rg varchar(45)
+
+3. crie outra tabela professor
+rgf int
+nome varchar(45)
+rg varchar(45 )
